@@ -1,5 +1,5 @@
 counter = () => {
-    const final = new Date('05 23, 2022 00:00:00').getTime();
+    const final = new Date('12 23, 2021 00:00:00').getTime();
     const start = Date.now();
 
     const gap = final - start;
